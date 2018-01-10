@@ -1,4 +1,4 @@
-### Assignment PA-B: Multi layer Perzeptron
+### Multi layer Perzeptron
 #### Requirement
 * JDK(Java Development Kit) 1.8
 
